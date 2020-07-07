@@ -1,4 +1,4 @@
-# BU-Website
+# Website-SHIELD-Drive
 I created a website for the SHIELD Drive Science Center.
 View the website <a target="_blank" rel="noopener noreferrer" href="http://sites.bu.edu/shield-drive/">here</a>
 
