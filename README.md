@@ -7,6 +7,6 @@ The goal of our DRIVE Science Center (DSC) is to develop a predictive global mod
 
 This multi-institutional effort is headquartered at Boston University and has co-investigators and collaborators across a dozen other institutions.
 
-DRIVE Science Centers are part of an integrated multi-agency initiative from the National Aeronautics and Space Administration (NASA) and the National Science Foundation (NSF) and are a high-priority recommendation of the 2013 Committee on a Decadal Strategy for Solar and Space Physics. (information above from http://sites.bu.edu/shield-drive/)
+DRIVE Science Centers are part of an integrated multi-agency initiative from the National Aeronautics and Space Administration (NASA) and the National Science Foundation (NSF) and are a high-priority recommendation of the 2013 Committee on a Decadal Strategy for Solar and Space Physics.
 
 <a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/welcome/">Check out my other projects!</a>
